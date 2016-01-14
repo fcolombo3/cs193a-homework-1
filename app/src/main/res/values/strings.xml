@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Magic 8 Ball</string>
+    <string name="greeting">Ask a question and click the magic 8 ball.</string>
+    <string name="imageName">Magic 8 Ball Button</string>
+    <string name="optimisticString">Optimistic Mode:</string>
+</resources>
